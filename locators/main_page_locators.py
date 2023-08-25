@@ -12,3 +12,4 @@ class MainPageLocators:
     # либо HEADER_ORDER_BUTTON = By.XPATH, "//button[text()='Заказать'][1]"
     ORDER_BUTTON_MAIN_PAGE = By.XPATH, "//div[contains(@class, 'Finish')]//button[text()='Заказать']"  # Кнопка "Заказать" на странице
     # либо ORDER_BUTTON_MAIN_PAGE = By.XPATH, "//button[text()='Заказать'][2]"
+
